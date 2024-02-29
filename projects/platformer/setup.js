@@ -93,8 +93,8 @@ let animationDetails = {};
 var collectableList = {
   database: { image: "images/collectables/database.png" },
   diamond: { image: "images/collectables/diamond-head.png" },
-  grace: { image: "images/collectables/grace-head.png" },
-  kennedi: { image: "images/collectables/kennedi-head.png" },
+  grace: { image: "https://static.wikia.nocookie.net/characterprofile/images/c/c7/Twilight_Sparkle_Alicorn_vector.png/revision/latest?cb=20160104140556" },
+  kennedi: { image: "https://static.wikia.nocookie.net/near-pure-good-hero/images/3/31/Pinkie_Pie_transparent.png/revision/latest?cb=20221016090917" },
   max: { image: "images/collectables/max-head.png" },
-  steve: { image: "images/collectables/steve-head.png" },
+  steve: { image: "https://static.wikia.nocookie.net/p__/images/8/8e/Rainbow_Dash_by_Nethear.png/revision/latest?cb=20210523055826&path-prefix=protagonist" },
 };
