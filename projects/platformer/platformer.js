@@ -44,11 +44,11 @@ $(function () {
     // You must decide the x position, y position, width, and height of the platforms
     // example usage: createPlatform(x,y,width,height)
 
-     createPlatform(500, 500, 200, 20);
-     createPlatform(200, 600, 200, 20);
+     createPlatform(550, 500, 200, 20);
+     createPlatform(200, 650, 200, 20);
      createPlatform(100, 300, 300 ,20);
-     createPlatform(300, 300, 200, 20);
-     createPlatform()
+     createPlatform(300, 400, 200, 20);
+     createPlatform(400, 500, 100, 20)
 
 
     
@@ -60,7 +60,7 @@ $(function () {
 
 createCollectable("steve", 500, 300, 20, 0.5);
 createCollectable("grace", 500, 300);
-createCollectable("kennedi", 500, 300);
+createCollectable("kennedi", 100, 300);
 
 
     // TODO 3
